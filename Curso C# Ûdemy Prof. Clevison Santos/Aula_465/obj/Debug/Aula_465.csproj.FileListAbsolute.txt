@@ -1,0 +1,7 @@
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\bin\Debug\Aula_465.exe.config
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\bin\Debug\Aula_465.exe
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\bin\Debug\Aula_465.pdb
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\obj\Debug\Aula_465.csproj.AssemblyReference.cache
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\obj\Debug\Aula_465.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\obj\Debug\Aula_465.exe
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\Principal\Curso C# Ûdemy Prof. Clevison Santos\Aula_465\obj\Debug\Aula_465.pdb

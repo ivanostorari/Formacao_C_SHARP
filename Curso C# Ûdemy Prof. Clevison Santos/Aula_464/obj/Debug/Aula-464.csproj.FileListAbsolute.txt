@@ -1,0 +1,7 @@
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\bin\Debug\Aula-464.exe.config
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\bin\Debug\Aula-464.exe
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\bin\Debug\Aula-464.pdb
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\obj\Debug\Aula-464.csproj.AssemblyReference.cache
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\obj\Debug\Aula-464.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\obj\Debug\Aula-464.exe
+C:\Users\ivan.ostorari\Desktop\Lógica Programação + C#\CURSO C#\Aula-464\obj\Debug\Aula-464.pdb
